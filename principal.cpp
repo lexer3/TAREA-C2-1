@@ -1,6 +1,5 @@
 //====================================================
 //PROGRAMA: OPERACIONES BASICAS
-// AUTO : STALIN FRANCIS
 // VESION: 1.02
 //==================================================
 #include<iostream>
