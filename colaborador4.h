@@ -1,6 +1,6 @@
 void transpuesta(float (*m1)[5], float (*r)[5])
   
-//========================================================
+//=========================================================
 //COLABORADOR 4
 //ALISSON LUCAS 
 //A MI ME TOCO CALCULAR LA TRANSPUESTA DE LAS  MATRICES 
