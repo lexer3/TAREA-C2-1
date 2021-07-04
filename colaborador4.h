@@ -1,5 +1,7 @@
 void transpuesta(float (*m1)[5], float (*r)[5])
   
+//========================================================
+//COLABORADOR 4
 //ALISSON LUCAS 
 //A MI ME TOCO CALCULAR LA TRANSPUESTA DE LAS  MATRICES 
   
@@ -7,9 +9,9 @@ void transpuesta(float (*m1)[5], float (*r)[5])
   
 cout<<"\nLA PRIMERA MATRIZ, QUEDARIA ASI:\n";
   
-for(int a=0; a<2; a++)
+for(int a=0;a<2;a++)
 {  
-    for(int b=0; b<2; b++)
+    for(int b=0;b<2;b++)
     {
     cout<<matriz1[b][a]<<" ";
     }
@@ -21,3 +23,4 @@ for(int a=0; a<2; a++)
 
 
    case 5:
+//========================================================
