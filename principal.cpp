@@ -1,5 +1,7 @@
 //TAREA B2
 //==================================================
+//==================================================
+//==================================================
 //integrantes
 //lexer Preciado Tello
 //Wendy Robison
@@ -30,7 +32,7 @@ int main()
 	float matriz1[5][5],matriz2[5][5],matrizresultado[5][5]={{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0}},matrizresultado1[5][5]={{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0},{0,0,0,0,0}};
 	do
 {
-	cout<<"\nOPERACIONES CON MATRICES EN 2 DIMENSIONES"<<endl<<endl;
+	cout<<"\nPROGRAMA DE OPERACIONES CON 2 MATRICES "<<endl<<endl;
 	cout<<"1.- Primero ingresar los valores de las matrices antes de trabajar con las operaciones \n";
 	cout<<"2.- Elegir 2 si quiere sacar el producto de las dos matrices \n";
 	cout<<"3.- Elegir 3 si quiere sacar la potencia de la matriz 1 \n"; 
